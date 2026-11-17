@@ -30,4 +30,4 @@ Developed an interactive sales analysis dashboard using Microsoft Excel to evalu
 Microsoft Excel | Data Cleaning | Excel Formulas | PivotTables | PivotCharts | Slicers | Data Visualization | Dashboard Design | Business Insights
 
 ## 📸 Dashboard Preview
-![Adventure Works Sales Dashboard](https://1drv.ms/x/c/A8106F3E59697D3C/IQDib1kup_nbSZa2-faBHXG-AWnGXXDiAnxHNnHWMY563ok?e=IAzF6v)
+![Adventure Works Sales Dashboard](https://github.com/Gowtham8101/Adventure-Works-Sales-Analysis-Dashboard/blob/main/Adventure%20work%20sales%20analysis.png)
